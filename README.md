@@ -3,7 +3,6 @@
 ## Project Overview
 
 **Project Title**: Healthcare Analysis 
-**Level**:intermediate
 
 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈 𝐝𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 helps transform complex healthcare data into actionable insights, enabling hospitals and healthcare providers to analyze disease prevalence, mortality trends, treatment effectiveness, and patient demographics.
 
