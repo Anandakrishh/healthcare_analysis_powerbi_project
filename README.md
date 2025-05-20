@@ -6,6 +6,9 @@
 
 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈 𝐝𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 helps transform complex healthcare data into actionable insights, enabling hospitals and healthcare providers to analyze disease prevalence, mortality trends, treatment effectiveness, and patient demographics.
 
+![image alt](https://github.com/Anandakrishh/dashboard_image/blob/2799fb7eb118426774373f830f3ab401b7d9c418/Screenshot%202025-05-20%20210140.png)
+![image alt](https://github.com/Anandakrishh/dashboard_image/blob/2799fb7eb118426774373f830f3ab401b7d9c418/Screenshot%202025-05-20%20210153.png)
+
 ## Objectives
 
 - 𝐖𝐡𝐚𝐭 𝐭𝐲𝐩𝐞𝐬 𝐨𝐟 𝐭𝐫𝐞𝐚𝐭𝐦𝐞𝐧𝐭𝐬 𝐚𝐫𝐞 𝐦𝐨𝐬𝐭 𝐜𝐨𝐦𝐦𝐨𝐧?
